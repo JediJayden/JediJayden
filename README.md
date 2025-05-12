@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="www.linkedin.com/in/jayden-orlandini-4555a71b6">IT Professional</a>☺</h1>
+<h1> Hi I'm Jayden an aspiring <a href="www.linkedin.com/in/jayden-orlandini-4555a71b6">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
