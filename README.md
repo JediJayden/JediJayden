@@ -1,22 +1,36 @@
-<h1> Hi I'm Jayden an aspiring <a href="www.linkedin.com/in/jayden-orlandini-4555a71b6">IT Professional</a>☺</h1>
+<h1 align="center">Hi there 👋, I'm Jayden</h1>
+<h3 align="center">Aspiring IT Professional | Systems & Network Enthusiast</h3>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayden-orlandini-4555a71b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protols)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+---
 
-<h2>🤳Connect with me:</h2>
+### 👨‍💻 Information Technology Projects
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+#### 🛠️ osTicket (Help Desk Ticketing System)
+- [Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+- [Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+- [Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+#### ☁️ Microsoft Azure Labs
+- [Active Directory on Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+- [Network Security Groups & Protocol Inspection](https://github.com/joshmadakorcc/azure-network-protocols)
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jayden-orlandini-4555a71b6) or follow me on my socials above. Always excited to collaborate and learn from others in the IT space!
+
+---
+
