@@ -18,7 +18,7 @@
 ### 👨‍💻 Information Technology Projects
 
 #### 🛠️ osTicket (Help Desk Ticketing System)
-- [Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+- [Prerequisites and Installation](https://github.com/JediJayden/OSticket-Prereqs.git)
 - [Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
 - [Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
